@@ -187,5 +187,10 @@ namespace HotelRegistrationSystem
 
             return false;
         }
+
+        private void MainForm_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
